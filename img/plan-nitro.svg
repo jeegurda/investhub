@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="108px" viewBox="0 0 71 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>nitro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="20" y="0" width="31" height="81"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="31" height="81" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M23,49 L23,81 L4.00402343,81 C0.688092852,81 -0.340319144,78.8756085 1.6888361,76.2782898 L23,49 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22.3512128" height="32" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M70.3512128,49 L70.3512128,81 L51.3552362,81 C48.0393056,81 47.0108936,78.8756085 49.0400489,76.2782898 L70.3512128,49 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22.3512128" height="32" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="25" y="78" width="21" height="13" rx="3"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21" height="13" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1033.000000, -2530.000000)">
+            <g id="Group-14-Copy-2" transform="translate(973.000000, 2529.000000)">
+                <g id="nitro" transform="translate(60.000000, 1.000000)">
+                    <g id="Group-5">
+                        <use id="Rectangle-17" stroke="#718DFD" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                        <use id="Rectangle-21" stroke="#718DFD" mask="url(#mask-4)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                        <use id="Rectangle-21" stroke="#718DFD" mask="url(#mask-6)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" transform="translate(59.175606, 65.000000) scale(-1, 1) translate(-59.175606, -65.000000) " xlink:href="#path-5"></use>
+                        <rect id="Rectangle-18" fill="#718DFD" x="29" y="18" width="13" height="3" rx="1.5"></rect>
+                        <use id="Rectangle-19" stroke="#718DFD" mask="url(#mask-8)" stroke-width="6" xlink:href="#path-7"></use>
+                        <rect id="Rectangle-20" fill="#718DFD" x="31" y="89" width="3" height="14" rx="1.5"></rect>
+                        <rect id="Rectangle-20" fill="#718DFD" x="37" y="89" width="3" height="10" rx="1.5"></rect>
+                        <rect id="Rectangle-20" fill="#718DFD" x="37" y="102" width="3" height="6" rx="1.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

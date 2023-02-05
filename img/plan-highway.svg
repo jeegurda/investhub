@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="86px" viewBox="0 0 79 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>highway</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Desktop" transform="translate(-681.000000, -2535.000000)" stroke="#718DFD" stroke-width="3">
+            <g id="Group-14-Copy" transform="translate(625.000000, 2529.000000)">
+                <g id="highway" transform="translate(58.000000, 8.000000)">
+                    <path d="M22,0 L0,78" id="Line"></path>
+                    <path d="M75,0 L53,78" id="Line" transform="translate(64.000000, 39.000000) scale(-1, 1) translate(-64.000000, -39.000000) "></path>
+                    <path d="M37.5,8.5 L37.5,25.5293864" id="Line"></path>
+                    <path d="M37.5,36.5 L37.5,53.5293864" id="Line"></path>
+                    <path d="M37.5,64.5 L37.5,81.5293864" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
